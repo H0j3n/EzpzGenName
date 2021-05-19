@@ -42,3 +42,13 @@ python3 gename.py -n user.txt -r usernames.rule -d "company.local" -f old
 # Output
 company.local\alex-james
 ```
+
+### 3. Output
+
+```
+# Usage
+python3 gename.py -n user.txt -r usernames.rule -o /tmp/user.txt
+
+# output
+[+] Saved to : /tmp/user.txt
+```
