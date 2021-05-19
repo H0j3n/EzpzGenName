@@ -1,5 +1,7 @@
 # EzpzGenName
 
+[](https://raw.githubusercontent.com/H0j3n/EzpzGenName/main/banner.png)
+
 # What is EzpzGenName?
 
 **Disclaimer: This tool is not a bruteforcing tool and does not perform network-level authentication.**
