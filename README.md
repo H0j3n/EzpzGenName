@@ -1,6 +1,6 @@
 # EzpzGenName
 
-![](https://raw.githubusercontent.com/H0j3n/EzpzGenName/main/banner.png)
+![](https://raw.githubusercontent.com/H0j3n/EzpzGenName/main/banner2.png)
 
 # What is EzpzGenName?
 
