@@ -33,3 +33,4 @@ first+'_'+mid+'_'+last
 first[0]+mid[0]+last
 mid+last+'.'+first
 first[0]+'-'+last
+first[0]+'.'+last
